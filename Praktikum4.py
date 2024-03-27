@@ -33,7 +33,6 @@ class Student:
         except ValueError:
             return False
 
-
 def main():
     # Meminta pengguna untuk memasukkan data pribadi siswa
     print("--- Data pribadi ---")
